@@ -1,0 +1,27 @@
+{
+  "name": "arduino-pianoletternotes-player",
+  "version": "1.0.0",
+  "description": "Simple Arduino firmware for playing a list of given notes on piezos - A JavaScript script to convert letter notes from pianoletternotes.com to edible data for the Arduino.",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cotezzo/arduino-pianoletternotes-player.git"
+  },
+  "keywords": [
+    "arduino",
+    "piano",
+    "pianoletternotes",
+    "player",
+    "tone",
+    "piezo"
+  ],
+  "author": "Cotezzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cotezzo/arduino-pianoletternotes-player/issues"
+  },
+  "homepage": "https://github.com/Cotezzo/arduino-pianoletternotes-player#readme"
+}
