@@ -93,7 +93,6 @@ for(const line of f){
         layers[i].push(...s[i] ?? [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]);
 }
 
-// Should I do this stuff in the former loops? Yes.
 const hexify = (bitMap, b, n) =>
     JSON.stringify(
         bitMap
